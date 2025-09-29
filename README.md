@@ -6,9 +6,7 @@
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/FRuNDTYUeur)
 
 ## Overview
-
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+https://v0-login-and-signup-page-one-gilt.vercel.app/login
 
 ## Deployment
 
@@ -18,9 +16,6 @@ Your project is live at:
 
 ## Build your app
 
-Continue building your app on:
-
-**[https://v0.app/chat/projects/FRuNDTYUeur](https://v0.app/chat/projects/FRuNDTYUeur)**
 
 ## How It Works
 
